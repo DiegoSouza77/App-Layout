@@ -2,15 +2,11 @@
 
 Sistema desenvolvido em relação a atividade do curso Talento Tech.
 
-## Getting Started
+## Olá, meu nom é Diego Alves e Souza e este é meu primeiro App Layout!
 
-This project is a starting point for a Flutter application.
+ Sou um dos 1000 alunos do curso Talento Tech. Eu moro ataulmente em Franciso Alves, uma cidade bem pequena no interior do Paraná, ainda estou processando como este curso chegou na minha cidade hahaha, brincadeiras à parte. Agradeço muito pela oportunidade de estar fazendo este curso.
 
-A few resources to get you started if this is your first Flutter project:
+O site que meu programa foi lançado no ar é este aqui:
+https://diegosouza77.github.io/app-layout/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desde já agradeço.
